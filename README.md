@@ -7,13 +7,14 @@
 信息共享地址：https://github.com/Huaida/WhiteHatHackerChallenge/issues
 
   参赛地址：
-  怀达
+  
+  + 怀达  
   0xB531CF5dd08db63c79c04F64BdE87D2204DC2cf7
-  张谷丰
+  + 张谷丰 
   0x14583D485A66CbD2DF24828a1aAaA66eD601D320
-  尹礼春
+  + 尹礼春 
   0xFDb51473Ca689D3049953A70fe9BC9839c56Df58
-  杨楫
+  + 杨楫 
   0x6Cde2e343691d978C55127ce65A27005403D4a33
 
 ###### 高分条件：
