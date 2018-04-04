@@ -8,7 +8,7 @@
 
   参赛地址：
   
-  + 怀达  
+  + 怀达
   0xB531CF5dd08db63c79c04F64BdE87D2204DC2cf7
   + 张谷丰 
   0x14583D485A66CbD2DF24828a1aAaA66eD601D320
